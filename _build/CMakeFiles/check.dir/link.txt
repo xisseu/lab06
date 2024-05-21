@@ -1,1 +1,0 @@
-/usr/bin/c++ -rdynamic CMakeFiles/check.dir/tests/test1.o -o check   -L/home/vboxuser/laba06/_build/lib  -lProject lib/libgtest_main.a lib/libgtest.a 
